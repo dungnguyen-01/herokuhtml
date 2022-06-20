@@ -1,0 +1,20 @@
+
+
+.article-loop-viewmore_link{
+    color: rgb(24, 22, 22);
+    font-weight: 500;
+    
+
+} 
+.article-loop-viewmore_link:hover{
+    color: #e5ef4d;
+}
+.blog_new_img{
+    width: 200px;
+    height: 200px;
+}
+.blog_new_img-hot{
+    width: 100px;
+    height: 100px;
+    margin-right: 10px;
+}
